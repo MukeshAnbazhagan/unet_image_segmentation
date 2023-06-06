@@ -1,0 +1,9 @@
+tensorflow==2.4.1
+streamlit==0.86
+matplotlib
+numpy
+scikit-image
+scikit-learn
+scipy
+
+
